@@ -1,2 +1,3 @@
 # bookbot
-Boot.dev Bookbot project  - it will accept a file and return the letter frequency
+
+BookBot is my first [Boot.dev](https://www.boot.dev) project!
